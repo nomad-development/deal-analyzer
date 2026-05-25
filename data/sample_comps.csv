@@ -1,0 +1,12 @@
+Address,Latitude,Longitude,Sqft,Beds,Baths,Sold Price,List Price,DOM,Property Type,Sale Date
+"123 Maple St, Dallas TX",32.7790,-96.8000,1800,3,2,,265000,12,Single Family,
+"129 Maple St, Dallas TX",32.7795,-96.8005,1750,3,2,255000,,18,Single Family,2026-03-15
+"140 Oak Ave, Dallas TX",32.7801,-96.7990,1900,3,2.5,278000,,9,Single Family,2026-04-02
+"118 Maple St, Dallas TX",32.7785,-96.8011,1680,3,2,248000,,25,Single Family,2026-02-28
+"205 Elm St, Dallas TX",32.7810,-96.8020,1850,4,2,272000,,14,Single Family,2026-03-30
+"77 Birch Ln, Dallas TX",32.7770,-96.7985,2000,4,3,295000,,21,Single Family,2026-04-10
+"312 Cedar Ct, Dallas TX",32.7755,-96.8035,1620,3,1.5,239000,,33,Single Family,2026-01-20
+"88 Willow Way, Dallas TX",32.7820,-96.7960,1780,3,2,261000,,11,Single Family,2026-04-18
+"450 Far Rd, Plano TX",33.0198,-96.6989,1800,3,2,310000,,8,Single Family,2026-04-01
+"500 Stale St, Dallas TX",32.7792,-96.8002,1820,3,2,180000,,90,Single Family,2025-06-01
+"22 Condo Blvd #4, Dallas TX",32.7788,-96.8008,1790,3,2,205000,,40,Condo,2026-03-22
